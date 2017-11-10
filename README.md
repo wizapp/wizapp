@@ -3,4 +3,4 @@
 
 ### Support or Contact
 
-[wwww.wizapp.fr](https://wwww.wizapp.fr/) / [contact support](https://wwww.wizapp.fr/contact)
+[www.wizapp.fr](https://www.wizapp.fr/) / [contact support](https://www.wizapp.fr/contact)
